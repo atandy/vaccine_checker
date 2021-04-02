@@ -13,3 +13,8 @@ I set up a crontab with the script to run it every 5 minutes.
 
 ![alt text](message_screenshot.jpg "Text Message Screenshot")
 
+
+# Supporting This
+If you'd like to help me expand where the script checks, let me know.
+
+If you found this code helpful for saving your own time helping you get a vaccine appointment, or you simply want to support a cool independently published children's book, **please check out my late mother's work!: [Journey From A to Z with Teacher Judy](https://teacherjudy.com)**
